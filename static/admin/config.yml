@@ -1,5 +1,6 @@
 backend:
-  name: test
+  name: github
+  repo: hajadelmas/blog
 
 media_folder: static/assets
 public_folder: assets
